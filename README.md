@@ -1,1 +1,1 @@
-# face-emotion-datector
+# Face-emotion-detector
